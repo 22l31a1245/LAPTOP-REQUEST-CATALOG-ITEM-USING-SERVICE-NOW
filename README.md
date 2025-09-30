@@ -71,16 +71,32 @@ In the target instance, retrieve the update set and commit changes to apply the 
 - [ ] Requests created correctly in the backend
 - [ ] Update Set changes successfully applied in another instance
 
-## Project Screenshots
+## Demo and Screenshots
+
+### 🎥 Live Demo
+**View the complete project demonstration:** [Laptop Request Catalog Item Demo](https://drive.google.com/file/d/1DpZP8dpL11G0jaBIJWP_n301qQoAC9Vw/view?usp=sharing)
+
+### 📸 Project Screenshots
 
 The following screenshots document the implementation process:
 
 1. **Create an Instance.png** - Initial instance setup
+   ![Create an Instance](1%20Create%20an%20Instance.png)
+
 2. **Service Catalog.png** - Service Catalog overview
+   ![Service Catalog](2%20Service%20Catalog.png)
+
 3. **Catalog Hardware Section.png** - Hardware category configuration
+   ![Catalog Hardware Section](3%20Catalog%20Hardware%20Section.png)
+
 4. **New Laptop Request.png** - Basic laptop request form
+   ![New Laptop Request](4%20New%20Laptop%20Request.png)
+
 5. **Laptop Request with Extra Items.png** - Enhanced form with additional options
+   ![Laptop Request with Extra Items](5%20Laptop%20Request%20with%20Extra%20Items.png)
+
 6. **Check Out & Order.png** - Final checkout and order process
+   ![Check Out & Order](6%20Check%20Out%20&%20Order.png)
 
 ## Conclusion
 
